@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PrimerParcial</string>
+    <string name="total_product">0</string>
+    <string name="actual_product">0</string>
+    <string name="new_percentage">0</string>
+</resources>
